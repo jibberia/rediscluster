@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Kevin Cox"]
   spec.email         = ["kevintcox@gmail.com"]
 
-  spec.summary       = %q{Antirez' redis-rb-cluster Redis cluster implementation in a gem}
-  spec.description   = %q{This is just a rubygem wrapper of github.com/antirez/redis-rb-cluster.}
-  spec.homepage      = "https://github.com/HYPERHYPER/redis-rb-cluster"
+  spec.summary       = "antirez/redis-rb-cluster gem"
+  spec.description   = "This is just a rubygem wrapper of github.com/antirez/redis-rb-cluster."
+  spec.homepage      = "https://github.com/jibberia/rediscluster"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
